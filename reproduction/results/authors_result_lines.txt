@@ -1,0 +1,4 @@
+# Result lines from the authors' own log shipped in the original repo:
+#   trained_models/Ours_GST/test/test_05207.pt.log   (dated 2025-02-05)
+2025-02-05 22:59:07, INFO: Testing success rate: 0.9720, collision rate: 0.0280, timeout rate: 0.0000, nav time: 17.6914, path length: 24.9106, average intrusion ratio: 2.9567%, average minimal distance during intrusions: 0.4412
+2025-02-05 22:59:07, INFO: Collision cases: 94 95 105 130 141 221 226
